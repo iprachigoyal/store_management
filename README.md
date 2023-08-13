@@ -6,6 +6,7 @@ This is a Store Management System web application built using Python Flask, Java
 ## Description
 
 Prachi's Store Management System is a web-based application that enables store owners or managers to efficiently manage their store's inventory, track orders, and perform various administrative tasks. The application provides an intuitive user interface for easy navigation and interaction.
+
 ---
 
 ## Backend
