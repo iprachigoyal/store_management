@@ -6,9 +6,6 @@ This is a Store Management System web application built using Python Flask, Java
 ## Description
 
 Prachi's Store Management System is a web-based application that enables store owners or managers to efficiently manage their store's inventory, track orders, and perform various administrative tasks. The application provides an intuitive user interface for easy navigation and interaction.
-
-![Entity-Relationship (EER) Diagram](ui/images/sql.png)  <!-- Placeholder link for the EER diagram image -->
-
 ---
 
 ## Backend
@@ -73,7 +70,9 @@ The frontend of Prachi's Store Management Software is built using HTML, CSS, and
 2. Navigate to the project directory
 3. Install the required dependencies: pip install -r requirements.txt
 4. Set up the SQL database.
-EER Diagram is attached to understand the type of database <img width="538" alt="image" src="/ui/images/sql.png">
+EER Diagram is attached to understand the type of database
+<img width="538" alt="sql" src="https://github.com/iprachigoyal/store_management/assets/106303603/3818b2c9-5251-4d81-b99b-6c8d1ada72d0">
+
 6. Run the application, server.py
 7. Access the web application in your browser: (use path of ./grocery_app/ui/index.html as browser url)
 ---
